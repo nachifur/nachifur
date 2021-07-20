@@ -1,4 +1,9 @@
-### Hi there 👋
+### Here is nachifur 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nachifur&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+- 🌱 I’m currently learning State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, **Shenyang**, 110016, China.
+- 👯 I’m looking to collaborate on [MulimgViewer](https://github.com/nachifur/MulimgViewer/wiki).
 
 <!--
 **nachifur/nachifur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
