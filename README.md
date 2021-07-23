@@ -3,6 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nachifur&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 🌱 I’m currently learning State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, **Shenyang**, 110016, China.
+- :books: [My Google Scholar page](https://scholar.google.com/citations?hl=en&user=tbPr7WsAAAAJ).
 - 👯 I’m looking to collaborate on [MulimgViewer](https://github.com/nachifur/MulimgViewer/wiki).
 
 <!--
