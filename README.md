@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, **Shenyang**, 110016, China.
 - :books: [My Google Scholar page](https://scholar.google.com/citations?hl=en&user=tbPr7WsAAAAJ).
-- 👯 I’m looking to collaborate on [MulimgViewer](https://github.com/nachifur/MulimgViewer/wiki).
+- 👯 I am looking for collaborators for [MulimgViewer](https://github.com/nachifur/MulimgViewer/wiki).
 
 <!--
 **nachifur/nachifur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
