@@ -5,6 +5,7 @@
 - 🌱 I’m a Research Assistant Professor at Shenyang Institute of Automation, Chinese Academy of Sciences, **Shenyang**, 110016, China.
 - :books: [My Google Scholar page](https://scholar.google.com/citations?hl=en&user=tbPr7WsAAAAJ) | [Twitter](https://twitter.com/nachifur) | [Researchgate](https://www.researchgate.net/profile/Jiawei-Liu-32) | [知乎](https://www.zhihu.com/people/nachifur) | [CSDN](https://blog.csdn.net/superjunenaruto)
 - 👯 I am looking for collaborators for [MulimgViewer](https://github.com/nachifur/MulimgViewer/wiki).
+- 推免、联培、实习生、论文合作->liujiawei@sia.cn
 
 <!--
 **nachifur/nachifur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
